@@ -1,0 +1,2 @@
+This program allows a user to output a message or design in block annotated letters. The program reads an input file that “maps” characters to specified coordinates which creates a 2D array from the file, then outputs the contents of the array to reveal the message or design.
+To use the program, users must have a delimited file that is saved in the same directory as the program file. Users are prompted to enter the name of the file they wish to process. For this version, enter the filename “FinalProjectInputData.txt”. 
